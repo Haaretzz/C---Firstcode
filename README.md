@@ -1,2 +1,2 @@
-# My first code in C#
-## It's a simple application and I used struct in this case, just to learn about. But I'll update It later.
+# My first steps in C#
+## This repository will be full of simple applications, because I'll just create another one when I get better.
